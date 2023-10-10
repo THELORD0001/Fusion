@@ -50,8 +50,11 @@ Contact any of the server moderators in our discord support server.
 
 Ask server mod(s) to remove the logged message or just wait for 24 hours, after being they are removed automatically after 24 hours.
 
+
 Security
+
 We take steps to ensure data provided from Nexus is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free.
+
 
 HOW CAN I CONTACT YOU?
 
